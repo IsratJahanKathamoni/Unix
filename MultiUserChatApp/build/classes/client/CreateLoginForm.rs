@@ -1,0 +1,2 @@
+client.NewPage
+client.CreateLoginForm
